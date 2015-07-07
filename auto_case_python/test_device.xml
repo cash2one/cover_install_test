@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<app>thrunk_all_com.baidu.searchbox.apk</app>
+	<appPackage>com.baidu.searchbox</appPackage>
+	<appActivity>com.baidu.searchbox.MainActivity</appActivity>
+	<automationName>selendroid</automationName>
+	<platformName>Android</platformName>
+	<platformVersion>4.2.2</platformVersion>
+	<deviceName>HTC</deviceName>
+	<udid>HC42VW9E0109</udid>
+</config>

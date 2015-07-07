@@ -1,0 +1,12 @@
+
+<body>
+<h4 >
+	覆盖安装测试结果($packageVersion) 
+</h4>
+<table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#00D5FF">
+	<tbody>
+		<tr><td>测试项</td><td>测试结果</td><td>详细信息</td>
+		$body
+	</tbody>
+</table>
+</body>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installSet>
+	<!-- Install>	
+		<toVersion>6.6</toVersion>
+		<fromVersion>0.8,0.9,0.85,2.0.1,2.0,3.0,3.5,3.6,3.7.1,3.7,3.8,3.9,4.0,4.1,4.2,4.3,4.4,4.5,4.6,4.7.1,4.7,4.8,4.9,5.0,5.1,5.2,5.3,5.4,5.5,6.0.1,6.1,6.0,6.2,6.3,6.4,6.5</fromVersion>
+		<isthrunk>true</isthrunk>
+		<product>all</product>
+		<packageName>com.baidu.searchbox</packageName>		
+	</Install -->
+	<!--  Install>	
+		<toVersion>6.6</toVersion>
+		<fromVersion>6.3</fromVersion>
+		<isthrunk>true</isthrunk>
+		<product>all</product>
+		<packageName>com.baidu.searchbox_huawei</packageName>		
+	</Install-->
+	<Install>
+	    <byStep>0</byStep>		
+		<toVersion>6.61</toVersion>
+		<fromVersion>5.0,5.1,5.2,5.3,5.4,5.5,6.0,6.1,6.2,6.3,6.4,6.5,6.6</fromVersion>
+		<isthrunk>true</isthrunk>
+		<product>all</product>
+		<packageName>com.baidu.searchbox</packageName>		
+	</Install>
+	<Install>
+	    <byStep>1</byStep>		
+		<toVersion>6.61</toVersion>
+		<fromVersion>4.0,4.9,5.0,6.0,6.5</fromVersion>
+		<isthrunk>true</isthrunk>
+		<product>all</product>
+		<packageName>com.baidu.searchbox</packageName>		
+	</Install>
+</installSet>
+<mail>
+    <!-- must not end with @baidu.com -->
+    <userName>bdmobile</userName>
+    <passwd>Vw*hmNg#pN</passwd>
+    <!-- please must add @baidu.com -->
+    <to>wuhao16@baidu.com, wangqingfang@baidu.com</to>
+</mail>
